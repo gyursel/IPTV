@@ -1,0 +1,733 @@
+
+
+#EXTM3U
+#EXTINF:-1 ,1 tvg-id="1" tvg-name="BNT1 HD" tvg-logo="http://l1.aesbg.net/1.png" codec="2", BNT1 HD
+http://r.aesbg.net:4000/1
+#EXTINF:-1 catchup="default" catchup-source="http://tsh.aesbg.net:4000?ch=2&utc=${start}&lutc=${timestamp}" catchup-days="1" ,2 tvg-id="2" tvg-name="bTV" tvg-logo="http://l1.aesbg.net/2.png", bTV
+http://r.aesbg.net:4000/2
+#EXTINF:-1 catchup="default" catchup-source="http://tsh.aesbg.net:4000?ch=3&utc=${start}&lutc=${timestamp}" catchup-days="1" ,3 tvg-id="3" tvg-name="Nova TV" tvg-logo="http://l1.aesbg.net/3.png", Nova TV
+http://r.aesbg.net:4000/3
+#EXTINF:-1 catchup="default" catchup-source="http://tsh.aesbg.net:4000?ch=5&utc=${start}&lutc=${timestamp}" catchup-days="1" ,5 tvg-id="5" tvg-name="Bulgaria on AIR" tvg-logo="http://l1.aesbg.net/5.png", Bulgaria on AIR
+http://r.aesbg.net:4000/5
+#EXTINF:-1 ,19 tvg-id="19" tvg-name="TV Evropa" tvg-logo="http://l1.aesbg.net/19.png", TV Evropa
+http://r.aesbg.net:4000/19
+#EXTINF:-1 catchup="default" catchup-source="http://tsh.aesbg.net:4000?ch=78&utc=${start}&lutc=${timestamp}" catchup-days="1" ,78 tvg-id="78" tvg-name="7/8 TV HD" tvg-logo="http://l1.aesbg.net/78.png", 7/8 TV HD
+http://r.aesbg.net:4000/78
+#EXTINF:-1 ,4 tvg-id="4" tvg-name="BNT2 HD" tvg-logo="http://l1.aesbg.net/4.png" codec="2", BNT2 HD
+http://r.aesbg.net:4000/4
+#EXTINF:-1 ,6 tvg-id="6" tvg-name="BNT3 HD" tvg-logo="http://l1.aesbg.net/6.png" codec="2", BNT3 HD
+http://r.aesbg.net:4000/6
+#EXTINF:-1 ,18 tvg-id="18" tvg-name="BNT4 HD" tvg-logo="http://l1.aesbg.net/18.png" codec="2", BNT4 HD
+http://r.aesbg.net:4000/18
+#EXTINF:-1 ,30 tvg-id="30" tvg-name="bTV HD" tvg-logo="http://l1.aesbg.net/30.png" codec="2", bTV HD
+http://r.aesbg.net:4000/30
+#EXTINF:-1 ,26 tvg-id="26" tvg-name="Nova TV HD" tvg-logo="", Nova TV HD
+http://r.aesbg.net:4000/26
+#EXTINF:-1 ,27 tvg-id="27" tvg-name="bTV Action" tvg-logo="", bTV Action
+http://r.aesbg.net:4000/27
+#EXTINF:-1 ,31 tvg-id="31" tvg-name="bTV Action HD" tvg-logo="http://l1.aesbg.net/31.png", bTV Action HD
+http://r.aesbg.net:4000/31
+#EXTINF:-1 ,53 tvg-id="53" tvg-name="FOX" tvg-logo="http://l1.aesbg.net/53.png", FOX
+http://r.aesbg.net:4000/53
+#EXTINF:-1 ,738 tvg-id="738" tvg-name="test FOX_HD" tvg-logo="http://l1.aesbg.net/738.png", test FOX_HD
+http://r.aesbg.net:4000/738
+#EXTINF:-1 ,54 tvg-id="54" tvg-name="FOX Life" tvg-logo="http://l1.aesbg.net/54.png", FOX Life
+http://r.aesbg.net:4000/54
+#EXTINF:-1 ,55 tvg-id="55" tvg-name="FOX Crime" tvg-logo="http://l1.aesbg.net/55.png", FOX Crime
+http://r.aesbg.net:4000/55
+#EXTINF:-1 ,17 tvg-id="17" tvg-name="Evrokom" tvg-logo="http://l1.aesbg.net/17.png", Evrokom
+http://r.aesbg.net:4000/17
+#EXTINF:-1 ,117 tvg-id="117" tvg-name="Evrokom HD" tvg-logo="", Evrokom HD
+http://r.aesbg.net:4000/117
+#EXTINF:-1 ,15 tvg-id="15" tvg-name="Skat TV" tvg-logo="http://l1.aesbg.net/15.png", Skat TV
+http://r.aesbg.net:4000/15
+#EXTINF:-1 ,16 tvg-id="16" tvg-name="Alfa TV" tvg-logo="http://l1.aesbg.net/16.png", Alfa TV
+http://r.aesbg.net:4000/16
+#EXTINF:-1 ,12 tvg-id="12" tvg-name="Kanal 3" tvg-logo="http://l1.aesbg.net/12.png", Kanal 3
+http://r.aesbg.net:4000/12
+#EXTINF:-1 ,113 tvg-id="113" tvg-name="Nova News" tvg-logo="" codec="2", Nova News
+http://r.aesbg.net:4000/113
+#EXTINF:-1 ,114 tvg-id="114" tvg-name="Nova News HD" tvg-logo="" codec="2", Nova News HD
+http://r.aesbg.net:4000/114
+#EXTINF:-1 ,29 tvg-id="29" tvg-name="KinoNova" tvg-logo="http://l1.aesbg.net/29.png", KinoNova
+http://r.aesbg.net:4000/29
+#EXTINF:-1 ,28 tvg-id="28" tvg-name="Diema" tvg-logo="http://l1.aesbg.net/28.png", Diema
+http://r.aesbg.net:4000/28
+#EXTINF:-1 ,57 tvg-id="57" tvg-name="Diema Family" tvg-logo="http://l1.aesbg.net/57.png", Diema Family
+http://r.aesbg.net:4000/57
+#EXTINF:-1 ,32 tvg-id="32" tvg-name="bTV Cinema" tvg-logo="http://l1.aesbg.net/32.png", bTV Cinema
+http://r.aesbg.net:4000/32
+#EXTINF:-1 ,33 tvg-id="33" tvg-name="bTV Comedy" tvg-logo="http://l1.aesbg.net/33.png", bTV Comedy
+http://r.aesbg.net:4000/33
+#EXTINF:-1 ,34 tvg-id="34" tvg-name="bTV Lady" tvg-logo="http://l1.aesbg.net/34.png", bTV Lady
+http://r.aesbg.net:4000/34
+#EXTINF:-1 ,20 tvg-id="20" tvg-name="TDC" tvg-logo="http://l1.aesbg.net/20.png", TDC
+http://r.aesbg.net:4000/20
+#EXTINF:-1 ,706 tvg-id="706" tvg-name="test AgroTV" tvg-logo="http://l1.aesbg.net/706.png", test AgroTV
+http://r.aesbg.net:4000/706
+#EXTINF:-1 ,25 tvg-id="25" tvg-name="Bulgaria 24" tvg-logo="http://l1.aesbg.net/25.png", Bulgaria 24
+http://r.aesbg.net:4000/25
+#EXTINF:-1 ,52 tvg-id="52" tvg-name="ID Xtra" tvg-logo="http://l1.aesbg.net/52.png", ID Xtra
+http://r.aesbg.net:4000/52
+#EXTINF:-1 ,14 tvg-id="14" tvg-name="Bulgare" tvg-logo="http://l1.aesbg.net/14.png", Bulgare
+http://r.aesbg.net:4000/14
+#EXTINF:-1 ,42 tvg-id="42" tvg-name="Discovery Channel" tvg-logo="http://l1.aesbg.net/42.png", Discovery Channel
+http://r.aesbg.net:4000/42
+#EXTINF:-1 ,108 tvg-id="108" tvg-name="Discovery HD" tvg-logo="" codec="2", Discovery HD
+http://r.aesbg.net:4000/108
+#EXTINF:-1 ,70 tvg-id="70" tvg-name="Discovery_Science" tvg-logo="http://l1.aesbg.net/70.png", Discovery_Science
+http://r.aesbg.net:4000/70
+#EXTINF:-1 ,35 tvg-id="35" tvg-name="National Geographic" tvg-logo="http://l1.aesbg.net/35.png", National Geographic
+http://r.aesbg.net:4000/35
+#EXTINF:-1 catchup="default" catchup-source="http://tsh.aesbg.net:4000?ch=36&utc=${start}&lutc=${timestamp}" catchup-days="1" ,36 tvg-id="36" tvg-name="National Geographic HD" tvg-logo="http://l1.aesbg.net/36.png" codec="2", National Geographic HD
+http://r.aesbg.net:4000/36
+#EXTINF:-1 ,39 tvg-id="39" tvg-name="Animal Planet" tvg-logo="http://l1.aesbg.net/39.png", Animal Planet
+http://r.aesbg.net:4000/39
+#EXTINF:-1 ,109 tvg-id="109" tvg-name="Animal Planet HD" tvg-logo="" codec="2", Animal Planet HD
+http://r.aesbg.net:4000/109
+#EXTINF:-1 ,37 tvg-id="37" tvg-name="Nat Geo WILD" tvg-logo="http://l1.aesbg.net/37.png", Nat Geo WILD
+http://r.aesbg.net:4000/37
+#EXTINF:-1 ,41 tvg-id="41" tvg-name="NG Wild HD" tvg-logo="http://l1.aesbg.net/41.png" codec="2", NG Wild HD
+http://r.aesbg.net:4000/41
+#EXTINF:-1 ,71 tvg-id="71" tvg-name="Travel Channel" tvg-logo="http://l1.aesbg.net/71.png", Travel Channel
+http://r.aesbg.net:4000/71
+#EXTINF:-1 ,782 tvg-id="782" tvg-name="test TravelTV_HD" tvg-logo="http://l1.aesbg.net/782.png", test TravelTV_HD
+http://r.aesbg.net:4000/782
+#EXTINF:-1 ,401 tvg-id="401" tvg-name="NASA HD" tvg-logo="http://l1.aesbg.net/401.png" codec="2", NASA HD
+http://r.aesbg.net:4000/401
+#EXTINF:-1 ,507 tvg-id="507" tvg-name="Hobby lov" tvg-logo="http://l1.aesbg.net/507.png", Hobby lov
+http://r.aesbg.net:4000/507
+#EXTINF:-1 ,503 tvg-id="503" tvg-name="Hobby TV HD" tvg-logo="http://l1.aesbg.net/503.png" codec="2", Hobby TV HD
+http://r.aesbg.net:4000/503
+#EXTINF:-1 ,758 tvg-id="758" tvg-name="test Oxota_i_Ribalka" tvg-logo="http://l1.aesbg.net/758.png", test Oxota_i_Ribalka
+http://r.aesbg.net:4000/758
+#EXTINF:-1 ,38 tvg-id="38" tvg-name="History Channel" tvg-logo="http://l1.aesbg.net/38.png", History Channel
+http://r.aesbg.net:4000/38
+#EXTINF:-1 ,40 tvg-id="40" tvg-name="Viasat Explorer" tvg-logo="http://l1.aesbg.net/40.png", Viasat Explorer
+http://r.aesbg.net:4000/40
+#EXTINF:-1 ,68 tvg-id="68" tvg-name="Viasat History" tvg-logo="http://l1.aesbg.net/68.png", Viasat History
+http://r.aesbg.net:4000/68
+#EXTINF:-1 ,72 tvg-id="72" tvg-name="History 2" tvg-logo="http://l1.aesbg.net/72.png", History 2
+http://r.aesbg.net:4000/72
+#EXTINF:-1 ,69 tvg-id="69" tvg-name="Viasat Nature" tvg-logo="http://l1.aesbg.net/69.png", Viasat Nature
+http://r.aesbg.net:4000/69
+#EXTINF:-1 ,181 tvg-id="181" tvg-name="Wine TV" tvg-logo="http://l1.aesbg.net/181.png", Wine TV
+http://r.aesbg.net:4000/181
+#EXTINF:-1 ,67 tvg-id="67" tvg-name="Da Vinci Learning" tvg-logo="http://l1.aesbg.net/67.png", Da Vinci Learning
+http://r.aesbg.net:4000/67
+#EXTINF:-1 ,87 tvg-id="87" tvg-name="Diema Sport 3" tvg-logo="", Diema Sport 3
+http://r.aesbg.net:4000/87
+#EXTINF:-1 ,112 tvg-id="112" tvg-name="Bloomberg TV HD" tvg-logo="" codec="2", Bloomberg TV HD
+http://r.aesbg.net:4000/112
+#EXTINF:-1 ,21 tvg-id="21" tvg-name="Planeta TV" tvg-logo="http://l1.aesbg.net/21.png", Planeta TV
+http://r.aesbg.net:4000/21
+#EXTINF:-1 ,22 tvg-id="22" tvg-name="Planeta HD" tvg-logo="http://l1.aesbg.net/22.png" codec="2", Planeta HD
+http://r.aesbg.net:4000/22
+#EXTINF:-1 ,13 tvg-id="13" tvg-name="Planeta Folk" tvg-logo="http://l1.aesbg.net/13.png", Planeta Folk
+http://r.aesbg.net:4000/13
+#EXTINF:-1 ,8 tvg-id="8" tvg-name="FAN TV" tvg-logo="http://l1.aesbg.net/8.png", FAN TV
+http://r.aesbg.net:4000/8
+#EXTINF:-1 ,736 tvg-id="736" tvg-name="test FEN_TV_HD" tvg-logo="http://l1.aesbg.net/736.png", test FEN_TV_HD
+http://r.aesbg.net:4000/736
+#EXTINF:-1 ,9 tvg-id="9" tvg-name="Fen Folk TV" tvg-logo="http://l1.aesbg.net/9.png", Fen Folk TV
+http://r.aesbg.net:4000/9
+#EXTINF:-1 ,11 tvg-id="11" tvg-name="Folklor TV" tvg-logo="http://l1.aesbg.net/11.png", Folklor TV
+http://r.aesbg.net:4000/11
+#EXTINF:-1 ,88 tvg-id="88" tvg-name="Tiankov Folk" tvg-logo="", Tiankov Folk
+http://r.aesbg.net:4000/88
+#EXTINF:-1 ,777 tvg-id="777" tvg-name="test Tiankov_HD" tvg-logo="http://l1.aesbg.net/777.png", test Tiankov_HD
+http://r.aesbg.net:4000/777
+#EXTINF:-1 ,778 tvg-id="778" tvg-name="test Tiankov_Music_HD" tvg-logo="http://l1.aesbg.net/778.png", test Tiankov_Music_HD
+http://r.aesbg.net:4000/778
+#EXTINF:-1 ,85 tvg-id="85" tvg-name="DSTV" tvg-logo="", DSTV
+http://r.aesbg.net:4000/85
+#EXTINF:-1 ,10 tvg-id="10" tvg-name="Balkanika" tvg-logo="http://l1.aesbg.net/10.png", Balkanika
+http://r.aesbg.net:4000/10
+#EXTINF:-1 ,775 tvg-id="775" tvg-name="test Sunrise" tvg-logo="http://l1.aesbg.net/775.png", test Sunrise
+http://r.aesbg.net:4000/775
+#EXTINF:-1 ,762 tvg-id="762" tvg-name="test Roma-TV" tvg-logo="http://l1.aesbg.net/762.png", test Roma-TV
+http://r.aesbg.net:4000/762
+#EXTINF:-1 ,7 tvg-id="7" tvg-name="The Voice" tvg-logo="http://l1.aesbg.net/7.png", The Voice
+http://r.aesbg.net:4000/7
+#EXTINF:-1 ,23 tvg-id="23" tvg-name="City TV" tvg-logo="http://l1.aesbg.net/23.png", City TV
+http://r.aesbg.net:4000/23
+#EXTINF:-1 ,24 tvg-id="24" tvg-name="Magic TV" tvg-logo="", Magic TV
+http://r.aesbg.net:4000/24
+#EXTINF:-1 ,718 tvg-id="718" tvg-name="test BG_Music_Channel_HD" tvg-logo="http://l1.aesbg.net/718.png", test BG_Music_Channel_HD
+http://r.aesbg.net:4000/718
+#EXTINF:-1 ,721 tvg-id="721" tvg-name="test Box_HD" tvg-logo="http://l1.aesbg.net/721.png", test Box_HD
+http://r.aesbg.net:4000/721
+#EXTINF:-1 ,76 tvg-id="76" tvg-name="VH1" tvg-logo="http://l1.aesbg.net/76.png", VH1
+http://r.aesbg.net:4000/76
+#EXTINF:-1 ,702 tvg-id="702" tvg-name="test MTV_Live_HD" tvg-logo="http://l1.aesbg.net/702.png", test MTV_Live_HD
+http://r.aesbg.net:4000/702
+#EXTINF:-1 ,77 tvg-id="77" tvg-name="MTV 80s" tvg-logo="http://l1.aesbg.net/77.png", MTV 80s
+http://r.aesbg.net:4000/77
+#EXTINF:-1 ,43 tvg-id="43" tvg-name="Nick Jr." tvg-logo="http://l1.aesbg.net/43.png", Nick Jr.
+http://r.aesbg.net:4000/43
+#EXTINF:-1 ,44 tvg-id="44" tvg-name="Cartoon Network" tvg-logo="http://l1.aesbg.net/44.png", Cartoon Network
+http://r.aesbg.net:4000/44
+#EXTINF:-1 ,45 tvg-id="45" tvg-name="Disney Junior" tvg-logo="http://l1.aesbg.net/45.png", Disney Junior
+http://r.aesbg.net:4000/45
+#EXTINF:-1 ,46 tvg-id="46" tvg-name="Nickelodeon" tvg-logo="http://l1.aesbg.net/46.png", Nickelodeon
+http://r.aesbg.net:4000/46
+#EXTINF:-1 ,47 tvg-id="47" tvg-name="Disney Channel" tvg-logo="http://l1.aesbg.net/47.png", Disney Channel
+http://r.aesbg.net:4000/47
+#EXTINF:-1 ,48 tvg-id="48" tvg-name="Baby TV" tvg-logo="http://l1.aesbg.net/48.png", Baby TV
+http://r.aesbg.net:4000/48
+#EXTINF:-1 ,49 tvg-id="49" tvg-name="Ekids" tvg-logo="http://l1.aesbg.net/49.png" codec="2", Ekids
+http://r.aesbg.net:4000/49
+#EXTINF:-1 ,50 tvg-id="50" tvg-name="TLC" tvg-logo="http://l1.aesbg.net/50.png", TLC
+http://r.aesbg.net:4000/50
+#EXTINF:-1 ,51 tvg-id="51" tvg-name="24 Kitchen" tvg-logo="http://l1.aesbg.net/51.png", 24 Kitchen
+http://r.aesbg.net:4000/51
+#EXTINF:-1 ,56 tvg-id="56" tvg-name="AXN" tvg-logo="http://l1.aesbg.net/56.png", AXN
+http://r.aesbg.net:4000/56
+#EXTINF:-1 ,58 tvg-id="58" tvg-name="AXN Black" tvg-logo="http://l1.aesbg.net/58.png", AXN Black
+http://r.aesbg.net:4000/58
+#EXTINF:-1 ,59 tvg-id="59" tvg-name="AXN White" tvg-logo="http://l1.aesbg.net/59.png", AXN White
+http://r.aesbg.net:4000/59
+#EXTINF:-1 ,60 tvg-id="60" tvg-name="Nova Sport" tvg-logo="http://l1.aesbg.net/60.png", Nova Sport
+http://r.aesbg.net:4000/60
+#EXTINF:-1 ,89 tvg-id="89" tvg-name="RING BG" tvg-logo="", RING BG
+http://r.aesbg.net:4000/89
+#EXTINF:-1 ,61 tvg-id="61" tvg-name="Eurosport" tvg-logo="http://l1.aesbg.net/61.png", Eurosport
+http://r.aesbg.net:4000/61
+#EXTINF:-1 ,62 tvg-id="62" tvg-name="Eurosport 2" tvg-logo="http://l1.aesbg.net/62.png", Eurosport 2
+http://r.aesbg.net:4000/62
+#EXTINF:-1 catchup="default" catchup-source="http://tsh.aesbg.net:4000?ch=66&utc=${start}&lutc=${timestamp}" catchup-days="1" ,66 tvg-id="66" tvg-name="Eurosport HD" tvg-logo="http://l1.aesbg.net/66.png", Eurosport HD
+http://r.aesbg.net:4000/66
+#EXTINF:-1 ,110 tvg-id="110" tvg-name="Eurosport 2 HD" tvg-logo="" codec="2", Eurosport 2 HD
+http://r.aesbg.net:4000/110
+#EXTINF:-1 ,63 tvg-id="63" tvg-name="RING BG HD" tvg-logo="http://l1.aesbg.net/63.png" codec="3", RING BG HD
+http://r.aesbg.net:4000/63
+#EXTINF:-1 ,64 tvg-id="64" tvg-name="Diema Sport" tvg-logo="http://l1.aesbg.net/64.png", Diema Sport
+http://r.aesbg.net:4000/64
+#EXTINF:-1 ,65 tvg-id="65" tvg-name="Diema Sport 2" tvg-logo="http://l1.aesbg.net/65.png", Diema Sport 2
+http://r.aesbg.net:4000/65
+#EXTINF:-1 ,728 tvg-id="728" tvg-name="Diema Sport 1 HD" tvg-logo="http://l1.aesbg.net/728.png" codec="2", Diema Sport 1 HD
+http://r.aesbg.net:4000/728
+#EXTINF:-1 ,729 tvg-id="729" tvg-name="Diema Sport 2 HD" tvg-logo="http://l1.aesbg.net/729.png" codec="2", Diema Sport 2 HD
+http://r.aesbg.net:4000/729
+#EXTINF:-1 ,780 tvg-id="780" tvg-name="test Trace_Sport_Stars_HD" tvg-logo="http://l1.aesbg.net/780.png", test Trace_Sport_Stars_HD
+http://r.aesbg.net:4000/780
+#EXTINF:-1 ,521 tvg-id="521" tvg-name="MAX sport 1 HD" tvg-logo="" codec="2", MAX sport 1 HD
+http://r.aesbg.net:4000/521
+#EXTINF:-1 ,522 tvg-id="522" tvg-name="MAX sport 2 HD" tvg-logo="" codec="2", MAX sport 2 HD
+http://r.aesbg.net:4000/522
+#EXTINF:-1 ,523 tvg-id="523" tvg-name="MAX sport 3 HD" tvg-logo="" codec="2", MAX sport 3 HD
+http://r.aesbg.net:4000/523
+#EXTINF:-1 ,524 tvg-id="524" tvg-name="MAX sport 4 HD" tvg-logo="" codec="2", MAX sport 4 HD
+http://r.aesbg.net:4000/524
+#EXTINF:-1 ,511 tvg-id="511" tvg-name="Action Plus" tvg-logo="", Action Plus
+http://r.aesbg.net:4000/511
+#EXTINF:-1 ,510 tvg-id="510" tvg-name="Sport Plus" tvg-logo="http://l1.aesbg.net/510.png", Sport Plus
+http://r.aesbg.net:4000/510
+#EXTINF:-1 ,506 tvg-id="506" tvg-name="Action Plus HD" tvg-logo="http://l1.aesbg.net/506.png" codec="2", Action Plus HD
+http://r.aesbg.net:4000/506
+#EXTINF:-1 ,504 tvg-id="504" tvg-name="SPORT Plus HD" tvg-logo="http://l1.aesbg.net/504.png" codec="2", SPORT Plus HD
+http://r.aesbg.net:4000/504
+#EXTINF:-1 ,708 tvg-id="708" tvg-name="Arena Sport1" tvg-logo="http://l1.aesbg.net/708.png", Arena Sport1
+http://r.aesbg.net:4000/708
+#EXTINF:-1 ,709 tvg-id="709" tvg-name="Arena Sport2" tvg-logo="http://l1.aesbg.net/709.png", Arena Sport2
+http://r.aesbg.net:4000/709
+#EXTINF:-1 ,710 tvg-id="710" tvg-name="Arena Sport3" tvg-logo="http://l1.aesbg.net/710.png", Arena Sport3
+http://r.aesbg.net:4000/710
+#EXTINF:-1 ,711 tvg-id="711" tvg-name="Arena Sport4" tvg-logo="http://l1.aesbg.net/711.png", Arena Sport4
+http://r.aesbg.net:4000/711
+#EXTINF:-1 ,712 tvg-id="712" tvg-name="Arena Sport5" tvg-logo="http://l1.aesbg.net/712.png", Arena Sport5
+http://r.aesbg.net:4000/712
+#EXTINF:-1 ,74 tvg-id="74" tvg-name="AMC" tvg-logo="http://l1.aesbg.net/74.png", AMC
+http://r.aesbg.net:4000/74
+#EXTINF:-1 ,75 tvg-id="75" tvg-name="TV-1000" tvg-logo="http://l1.aesbg.net/75.png", TV-1000
+http://r.aesbg.net:4000/75
+#EXTINF:-1 ,80 tvg-id="80" tvg-name="Crime & Investigations" tvg-logo="http://l1.aesbg.net/80.png", Crime & Investigations
+http://r.aesbg.net:4000/80
+#EXTINF:-1 ,81 tvg-id="81" tvg-name="Film box plus" tvg-logo="http://l1.aesbg.net/81.png", Film box plus
+http://r.aesbg.net:4000/81
+#EXTINF:-1 ,82 tvg-id="82" tvg-name="Epic Drama" tvg-logo="", Epic Drama
+http://r.aesbg.net:4000/82
+#EXTINF:-1 ,115 tvg-id="115" tvg-name="Epic Drama HD" tvg-logo="" codec="2", Epic Drama HD
+http://r.aesbg.net:4000/115
+#EXTINF:-1 ,83 tvg-id="83" tvg-name="Movie Star HD" tvg-logo="" codec="2", Movie Star HD
+http://r.aesbg.net:4000/83
+#EXTINF:-1 ,111 tvg-id="111" tvg-name="Cinemania HD" tvg-logo="http://l1.aesbg.net/111.png" codec="2", Cinemania HD
+http://r.aesbg.net:4000/111
+#EXTINF:-1 ,501 tvg-id="501" tvg-name="Cinema Plus" tvg-logo="http://l1.aesbg.net/501.png", Cinema Plus
+http://r.aesbg.net:4000/501
+#EXTINF:-1 ,509 tvg-id="509" tvg-name="F Plus" tvg-logo="http://l1.aesbg.net/509.png", F Plus
+http://r.aesbg.net:4000/509
+#EXTINF:-1 ,505 tvg-id="505" tvg-name="Comedy Plus" tvg-logo="http://l1.aesbg.net/505.png", Comedy Plus
+http://r.aesbg.net:4000/505
+#EXTINF:-1 ,508 tvg-id="508" tvg-name="TV Plus" tvg-logo="http://l1.aesbg.net/508.png", TV Plus
+http://r.aesbg.net:4000/508
+#EXTINF:-1 ,553 tvg-id="553" tvg-name="Cinemax HD Al" tvg-logo="http://l1.aesbg.net/553.png", Cinemax HD Al
+http://r.aesbg.net:4000/553
+#EXTINF:-1 ,554 tvg-id="554" tvg-name="Cinemax2 HD Al" tvg-logo="http://l1.aesbg.net/554.png", Cinemax2 HD Al
+http://r.aesbg.net:4000/554
+#EXTINF:-1 ,555 tvg-id="555" tvg-name="HBO1 HD" tvg-logo="http://l1.aesbg.net/555.png", HBO1 HD
+http://r.aesbg.net:4000/555
+#EXTINF:-1 ,556 tvg-id="556" tvg-name="HBO2 HD" tvg-logo="http://l1.aesbg.net/556.png", HBO2 HD
+http://r.aesbg.net:4000/556
+#EXTINF:-1 ,557 tvg-id="557" tvg-name="HBO3 HD" tvg-logo="http://l1.aesbg.net/557.png", HBO3 HD
+http://r.aesbg.net:4000/557
+#EXTINF:-1 ,73 tvg-id="73" tvg-name="DocuBox" tvg-logo="http://l1.aesbg.net/73.png", DocuBox
+http://r.aesbg.net:4000/73
+#EXTINF:-1 ,79 tvg-id="79" tvg-name="Fine Living" tvg-logo="http://l1.aesbg.net/79.png", Fine Living
+http://r.aesbg.net:4000/79
+#EXTINF:-1 ,86 tvg-id="86" tvg-name="DM Sat" tvg-logo="", DM Sat
+http://r.aesbg.net:4000/86
+#EXTINF:-1 ,84 tvg-id="84" tvg-name="VTK" tvg-logo="", VTK
+http://r.aesbg.net:4000/84
+#EXTINF:-1 ,107 tvg-id="107" tvg-name="TV Shumen" tvg-logo="", TV Shumen
+http://r.aesbg.net:4000/107
+#EXTINF:-1 ,724 tvg-id="724" tvg-name="test Cherno_More" tvg-logo="http://l1.aesbg.net/724.png", test Cherno_More
+http://r.aesbg.net:4000/724
+#EXTINF:-1 ,116 tvg-id="116" tvg-name="BSTV" tvg-logo="", BSTV
+http://r.aesbg.net:4000/116
+#EXTINF:-1 ,90 tvg-id="90" tvg-name="Penthouse 18+" tvg-logo="http://l1.aesbg.net/90.png" lock="1" censored="1" parent-code="1" codec="1", Penthouse 18+
+http://r.aesbg.net:4000/90
+#EXTINF:-1 ,91 tvg-id="91" tvg-name="Pink O TV 18+" tvg-logo="http://l1.aesbg.net/91.png" lock="1" censored="1" parent-code="1", Pink O TV 18+
+http://r.aesbg.net:4000/91
+#EXTINF:-1 ,92 tvg-id="92" tvg-name="Passion XXX 18+" tvg-logo="http://l1.aesbg.net/92.png" lock="1" censored="1" parent-code="1", Passion XXX 18+
+http://r.aesbg.net:4000/92
+#EXTINF:-1 ,93 tvg-id="93" tvg-name="Hustler TV 18+" tvg-logo="http://l1.aesbg.net/93.png" lock="1" censored="1" parent-code="1", Hustler TV 18+
+http://r.aesbg.net:4000/93
+#EXTINF:-1 ,94 tvg-id="94" tvg-name="Evil Angels TV 18+" tvg-logo="" lock="1" censored="1" parent-code="1", Evil Angels TV 18+
+http://r.aesbg.net:4000/94
+#EXTINF:-1 ,96 tvg-id="96" tvg-name="Passion XXX2 TV 18+" tvg-logo="" lock="1" censored="1" parent-code="1", Passion XXX2 TV 18+
+http://r.aesbg.net:4000/96
+#EXTINF:-1 ,95 tvg-id="95" tvg-name="Vivid TV 18+" tvg-logo="" lock="1" censored="1" parent-code="1", Vivid TV 18+
+http://r.aesbg.net:4000/95
+#EXTINF:-1 ,97 tvg-id="97" tvg-name="Pink O2 TV 18+" tvg-logo="" lock="1" censored="1" parent-code="1", Pink O2 TV 18+
+http://r.aesbg.net:4000/97
+#EXTINF:-1 ,270 tvg-id="270" tvg-name="Rai 1" tvg-logo="http://l1.aesbg.net/270.png", Rai 1
+http://r.aesbg.net:4000/270
+#EXTINF:-1 ,271 tvg-id="271" tvg-name="Rai 2" tvg-logo="http://l1.aesbg.net/271.png", Rai 2
+http://r.aesbg.net:4000/271
+#EXTINF:-1 ,272 tvg-id="272" tvg-name="Rai 3" tvg-logo="http://l1.aesbg.net/272.png", Rai 3
+http://r.aesbg.net:4000/272
+#EXTINF:-1 ,273 tvg-id="273" tvg-name="Rai News" tvg-logo="http://l1.aesbg.net/273.png", Rai News
+http://r.aesbg.net:4000/273
+#EXTINF:-1 ,275 tvg-id="275" tvg-name="Rai Gulp" tvg-logo="http://l1.aesbg.net/275.png", Rai Gulp
+http://r.aesbg.net:4000/275
+#EXTINF:-1 ,276 tvg-id="276" tvg-name="Rai Scuola" tvg-logo="http://l1.aesbg.net/276.png", Rai Scuola
+http://r.aesbg.net:4000/276
+#EXTINF:-1 ,274 tvg-id="274" tvg-name="Rai Storia" tvg-logo="http://l1.aesbg.net/274.png", Rai Storia
+http://r.aesbg.net:4000/274
+#EXTINF:-1 ,277 tvg-id="277" tvg-name="Rai Sport" tvg-logo="http://l1.aesbg.net/277.png", Rai Sport
+http://r.aesbg.net:4000/277
+#EXTINF:-1 ,180 tvg-id="180" tvg-name="Italian Fishing Tv" tvg-logo="http://l1.aesbg.net/180.png", Italian Fishing Tv
+http://r.aesbg.net:4000/180
+#EXTINF:-1 ,100 tvg-id="100" tvg-name="CNN" tvg-logo="http://l1.aesbg.net/100.png", CNN
+http://r.aesbg.net:4000/100
+#EXTINF:-1 ,102 tvg-id="102" tvg-name="Perviy Kanal" tvg-logo="http://l1.aesbg.net/102.png", Perviy Kanal
+http://r.aesbg.net:4000/102
+#EXTINF:-1 ,261 tvg-id="261" tvg-name="Rossia 24" tvg-logo="http://l1.aesbg.net/261.png", Rossia 24
+http://r.aesbg.net:4000/261
+#EXTINF:-1 ,256 tvg-id="256" tvg-name="RTR" tvg-logo="http://l1.aesbg.net/256.png", RTR
+http://r.aesbg.net:4000/256
+#EXTINF:-1 ,260 tvg-id="260" tvg-name="RT HD" tvg-logo="http://l1.aesbg.net/260.png", RT HD
+http://r.aesbg.net:4000/260
+#EXTINF:-1 ,262 tvg-id="262" tvg-name="RT Doc HD" tvg-logo="", RT Doc HD
+http://r.aesbg.net:4000/262
+#EXTINF:-1 ,259 tvg-id="259" tvg-name="TV8 Rossia" tvg-logo="http://l1.aesbg.net/259.png", TV8 Rossia
+http://r.aesbg.net:4000/259
+#EXTINF:-1 ,253 tvg-id="253" tvg-name="Music Box Rossia" tvg-logo="http://l1.aesbg.net/253.png", Music Box Rossia
+http://r.aesbg.net:4000/253
+#EXTINF:-1 ,258 tvg-id="258" tvg-name="NTV MIR" tvg-logo="http://l1.aesbg.net/258.png", NTV MIR
+http://r.aesbg.net:4000/258
+#EXTINF:-1 ,257 tvg-id="257" tvg-name="Bestseller Rossia" tvg-logo="http://l1.aesbg.net/257.png", Bestseller Rossia
+http://r.aesbg.net:4000/257
+#EXTINF:-1 ,290 tvg-id="290" tvg-name="GRT TV" tvg-logo="http://l1.aesbg.net/290.png", GRT TV
+http://r.aesbg.net:4000/290
+#EXTINF:-1 ,237 tvg-id="237" tvg-name="RTL" tvg-logo="http://l1.aesbg.net/237.png", RTL
+http://r.aesbg.net:4000/237
+#EXTINF:-1 ,238 tvg-id="238" tvg-name="RTL 2" tvg-logo="http://l1.aesbg.net/238.png", RTL 2
+http://r.aesbg.net:4000/238
+#EXTINF:-1 ,239 tvg-id="239" tvg-name="RTL Super" tvg-logo="http://l1.aesbg.net/239.png", RTL Super
+http://r.aesbg.net:4000/239
+#EXTINF:-1 ,240 tvg-id="240" tvg-name="RTL Plus" tvg-logo="http://l1.aesbg.net/240.png", RTL Plus
+http://r.aesbg.net:4000/240
+#EXTINF:-1 ,241 tvg-id="241" tvg-name="RTL Nitro" tvg-logo="http://l1.aesbg.net/241.png", RTL Nitro
+http://r.aesbg.net:4000/241
+#EXTINF:-1 ,232 tvg-id="232" tvg-name="ZDF HD" tvg-logo="http://l1.aesbg.net/232.png", ZDF HD
+http://r.aesbg.net:4000/232
+#EXTINF:-1 ,233 tvg-id="233" tvg-name="ZDF NEO HD" tvg-logo="http://l1.aesbg.net/233.png", ZDF NEO HD
+http://r.aesbg.net:4000/233
+#EXTINF:-1 ,234 tvg-id="234" tvg-name="ZDF INFO HD" tvg-logo="http://l1.aesbg.net/234.png", ZDF INFO HD
+http://r.aesbg.net:4000/234
+#EXTINF:-1 ,244 tvg-id="244" tvg-name="REGIO TV" tvg-logo="http://l1.aesbg.net/244.png", REGIO TV
+http://r.aesbg.net:4000/244
+#EXTINF:-1 ,101 tvg-id="101" tvg-name="Mezzo" tvg-logo="http://l1.aesbg.net/101.png", Mezzo
+http://r.aesbg.net:4000/101
+#EXTINF:-1 ,224 tvg-id="224" tvg-name="SAT1" tvg-logo="", SAT1
+http://r.aesbg.net:4000/224
+#EXTINF:-1 ,243 tvg-id="243" tvg-name="DMAX" tvg-logo="http://l1.aesbg.net/243.png", DMAX
+http://r.aesbg.net:4000/243
+#EXTINF:-1 ,222 tvg-id="222" tvg-name="Das Erste HD" tvg-logo="", Das Erste HD
+http://r.aesbg.net:4000/222
+#EXTINF:-1 ,228 tvg-id="228" tvg-name="3sat HD" tvg-logo="http://l1.aesbg.net/228.png", 3sat HD
+http://r.aesbg.net:4000/228
+#EXTINF:-1 ,223 tvg-id="223" tvg-name="Arte HD" tvg-logo="", Arte HD
+http://r.aesbg.net:4000/223
+#EXTINF:-1 ,235 tvg-id="235" tvg-name="Pro7" tvg-logo="http://l1.aesbg.net/235.png", Pro7
+http://r.aesbg.net:4000/235
+#EXTINF:-1 ,236 tvg-id="236" tvg-name="Pro7 MAX" tvg-logo="http://l1.aesbg.net/236.png", Pro7 MAX
+http://r.aesbg.net:4000/236
+#EXTINF:-1 ,225 tvg-id="225" tvg-name="SAT1 Gold" tvg-logo="", SAT1 Gold
+http://r.aesbg.net:4000/225
+#EXTINF:-1 ,229 tvg-id="229" tvg-name="VOX" tvg-logo="http://l1.aesbg.net/229.png", VOX
+http://r.aesbg.net:4000/229
+#EXTINF:-1 ,230 tvg-id="230" tvg-name="KIKA HD" tvg-logo="http://l1.aesbg.net/230.png", KIKA HD
+http://r.aesbg.net:4000/230
+#EXTINF:-1 ,254 tvg-id="254" tvg-name="THT" tvg-logo="http://l1.aesbg.net/254.png", THT
+http://r.aesbg.net:4000/254
+#EXTINF:-1 ,246 tvg-id="246" tvg-name="TELE 5" tvg-logo="http://l1.aesbg.net/246.png", TELE 5
+http://r.aesbg.net:4000/246
+#EXTINF:-1 ,221 tvg-id="221" tvg-name="n-tv" tvg-logo="http://l1.aesbg.net/221.png", n-tv
+http://r.aesbg.net:4000/221
+#EXTINF:-1 ,242 tvg-id="242" tvg-name="N24" tvg-logo="http://l1.aesbg.net/242.png", N24
+http://r.aesbg.net:4000/242
+#EXTINF:-1 ,231 tvg-id="231" tvg-name="Toggo plus" tvg-logo="http://l1.aesbg.net/231.png", Toggo plus
+http://r.aesbg.net:4000/231
+#EXTINF:-1 ,226 tvg-id="226" tvg-name="Kabel eins" tvg-logo="http://l1.aesbg.net/226.png", Kabel eins
+http://r.aesbg.net:4000/226
+#EXTINF:-1 ,227 tvg-id="227" tvg-name="Kabel eins doku" tvg-logo="http://l1.aesbg.net/227.png", Kabel eins doku
+http://r.aesbg.net:4000/227
+#EXTINF:-1 ,99 tvg-id="99" tvg-name="Fightbox" tvg-logo="http://l1.aesbg.net/99.png", Fightbox
+http://r.aesbg.net:4000/99
+#EXTINF:-1 ,190 tvg-id="190" tvg-name="Super Tenis HD" tvg-logo="http://l1.aesbg.net/190.png" codec="2", Super Tenis HD
+http://r.aesbg.net:4000/190
+#EXTINF:-1 ,265 tvg-id="265" tvg-name="CGTN" tvg-logo="http://l1.aesbg.net/265.png", CGTN
+http://r.aesbg.net:4000/265
+#EXTINF:-1 ,255 tvg-id="255" tvg-name="STS International" tvg-logo="http://l1.aesbg.net/255.png", STS International
+http://r.aesbg.net:4000/255
+#EXTINF:-1 ,245 tvg-id="245" tvg-name="SPORT1" tvg-logo="http://l1.aesbg.net/245.png", SPORT1
+http://r.aesbg.net:4000/245
+#EXTINF:-1 ,264 tvg-id="264" tvg-name="France 24" tvg-logo="http://l1.aesbg.net/264.png", France 24
+http://r.aesbg.net:4000/264
+#EXTINF:-1 ,263 tvg-id="263" tvg-name="TV5MONDE EUROPE" tvg-logo="http://l1.aesbg.net/263.png", TV5MONDE EUROPE
+http://r.aesbg.net:4000/263
+#EXTINF:-1 ,267 tvg-id="267" tvg-name="CGTN F" tvg-logo="http://l1.aesbg.net/267.png", CGTN F
+http://r.aesbg.net:4000/267
+#EXTINF:-1 ,266 tvg-id="266" tvg-name="CGTN Documentary" tvg-logo="http://l1.aesbg.net/266.png", CGTN Documentary
+http://r.aesbg.net:4000/266
+#EXTINF:-1 ,285 tvg-id="285" tvg-name="WAAR HD" tvg-logo="http://l1.aesbg.net/285.png", WAAR HD
+http://r.aesbg.net:4000/285
+#EXTINF:-1 ,286 tvg-id="286" tvg-name="Uninettuno University TV" tvg-logo="http://l1.aesbg.net/286.png", Uninettuno University TV
+http://r.aesbg.net:4000/286
+#EXTINF:-1 ,369 tvg-id="369" tvg-name="bein sports HD1" tvg-logo="http://l1.aesbg.net/369.png", bein sports HD1
+http://r.aesbg.net:4000/369
+#EXTINF:-1 ,374 tvg-id="374" tvg-name="beIN SPORTS HABER HD" tvg-logo="http://l1.aesbg.net/374.png", beIN SPORTS HABER HD
+http://r.aesbg.net:4000/374
+#EXTINF:-1 ,792 tvg-id="792" tvg-name="Bein Sport HD rez" tvg-logo="http://l1.aesbg.net/792.png", Bein Sport HD rez
+http://r.aesbg.net:4000/792
+#EXTINF:-1 catchup="default" catchup-source="http://tsh.aesbg.net:4000?ch=311&utc=${start}&lutc=${timestamp}" catchup-days="1" ,311 tvg-id="311" tvg-name="TV8 HD" tvg-logo="http://l1.aesbg.net/311.png", TV8 HD
+http://r.aesbg.net:4000/311
+#EXTINF:-1 ,351 tvg-id="351" tvg-name="TV8.5 HD" tvg-logo="http://l1.aesbg.net/351.png" codec="2", TV8.5 HD
+http://r.aesbg.net:4000/351
+#EXTINF:-1 catchup="default" catchup-source="http://tsh.aesbg.net:4000?ch=314&utc=${start}&lutc=${timestamp}" catchup-days="1" ,314 tvg-id="314" tvg-name="SHOW HD" tvg-logo="http://l1.aesbg.net/314.png", SHOW HD
+http://r.aesbg.net:4000/314
+#EXTINF:-1 ,322 tvg-id="322" tvg-name="SHOW MAX HD" tvg-logo="", SHOW MAX HD
+http://r.aesbg.net:4000/322
+#EXTINF:-1 ,306 tvg-id="306" tvg-name="STAR TV HD" tvg-logo="http://l1.aesbg.net/306.png", STAR TV HD
+http://r.aesbg.net:4000/306
+#EXTINF:-1 ,321 tvg-id="321" tvg-name="FOX HD" tvg-logo="http://l1.aesbg.net/321.png", FOX HD
+http://r.aesbg.net:4000/321
+#EXTINF:-1 catchup="default" catchup-source="http://tsh.aesbg.net:4000?ch=320&utc=${start}&lutc=${timestamp}" catchup-days="1" ,320 tvg-id="320" tvg-name="KANAL 7 HD" tvg-logo="http://l1.aesbg.net/320.png", KANAL 7 HD
+http://r.aesbg.net:4000/320
+#EXTINF:-1 catchup="default" catchup-source="http://tsh.aesbg.net:4000?ch=315&utc=${start}&lutc=${timestamp}" catchup-days="1" ,315 tvg-id="315" tvg-name="KANAL D HD" tvg-logo="http://l1.aesbg.net/315.png", KANAL D HD
+http://r.aesbg.net:4000/315
+#EXTINF:-1 ,300 tvg-id="300" tvg-name="ATV HD" tvg-logo="http://l1.aesbg.net/300.png", ATV HD
+http://r.aesbg.net:4000/300
+#EXTINF:-1 ,313 tvg-id="313" tvg-name="HABERTURK HD" tvg-logo="http://l1.aesbg.net/313.png", HABERTURK HD
+http://r.aesbg.net:4000/313
+#EXTINF:-1 ,301 tvg-id="301" tvg-name="A HABER HD" tvg-logo="http://l1.aesbg.net/301.png", A HABER HD
+http://r.aesbg.net:4000/301
+#EXTINF:-1 ,307 tvg-id="307" tvg-name="NTV HD" tvg-logo="http://l1.aesbg.net/307.png", NTV HD
+http://r.aesbg.net:4000/307
+#EXTINF:-1 ,393 tvg-id="393" tvg-name="VATAN TV" tvg-logo="http://l1.aesbg.net/393.png", VATAN TV
+http://r.aesbg.net:4000/393
+#EXTINF:-1 ,375 tvg-id="375" tvg-name="RUMELI TV" tvg-logo="http://l1.aesbg.net/375.png", RUMELI TV
+http://r.aesbg.net:4000/375
+#EXTINF:-1 ,316 tvg-id="316" tvg-name="CNN TURK HD" tvg-logo="http://l1.aesbg.net/316.png", CNN TURK HD
+http://r.aesbg.net:4000/316
+#EXTINF:-1 ,308 tvg-id="308" tvg-name="DMAX HD" tvg-logo="http://l1.aesbg.net/308.png", DMAX HD
+http://r.aesbg.net:4000/308
+#EXTINF:-1 ,302 tvg-id="302" tvg-name="A SPOR HD" tvg-logo="http://l1.aesbg.net/302.png", A SPOR HD
+http://r.aesbg.net:4000/302
+#EXTINF:-1 ,309 tvg-id="309" tvg-name="KRAL POP TV HD" tvg-logo="http://l1.aesbg.net/309.png", KRAL POP TV HD
+http://r.aesbg.net:4000/309
+#EXTINF:-1 ,333 tvg-id="333" tvg-name="TRT1 HD" tvg-logo="http://l1.aesbg.net/333.png", TRT1 HD
+http://r.aesbg.net:4000/333
+#EXTINF:-1 ,332 tvg-id="332" tvg-name="TRT BELGESEL HD" tvg-logo="http://l1.aesbg.net/332.png", TRT BELGESEL HD
+http://r.aesbg.net:4000/332
+#EXTINF:-1 ,331 tvg-id="331" tvg-name="TRT WORLD HD" tvg-logo="http://l1.aesbg.net/331.png", TRT WORLD HD
+http://r.aesbg.net:4000/331
+#EXTINF:-1 ,336 tvg-id="336" tvg-name="TRT1 AVRUPA" tvg-logo="http://l1.aesbg.net/336.png", TRT1 AVRUPA
+http://r.aesbg.net:4000/336
+#EXTINF:-1 ,335 tvg-id="335" tvg-name="TRT HABER HD" tvg-logo="http://l1.aesbg.net/335.png", TRT HABER HD
+http://r.aesbg.net:4000/335
+#EXTINF:-1 ,373 tvg-id="373" tvg-name="TRT KURDI HD" tvg-logo="http://l1.aesbg.net/373.png", TRT KURDI HD
+http://r.aesbg.net:4000/373
+#EXTINF:-1 ,372 tvg-id="372" tvg-name="TRT MUZIK HD" tvg-logo="http://l1.aesbg.net/372.png", TRT MUZIK HD
+http://r.aesbg.net:4000/372
+#EXTINF:-1 ,334 tvg-id="334" tvg-name="TRT SPOR HD" tvg-logo="http://l1.aesbg.net/334.png", TRT SPOR HD
+http://r.aesbg.net:4000/334
+#EXTINF:-1 ,330 tvg-id="330" tvg-name="TRT COCUK HD" tvg-logo="http://l1.aesbg.net/330.png", TRT COCUK HD
+http://r.aesbg.net:4000/330
+#EXTINF:-1 ,337 tvg-id="337" tvg-name="POWER HD" tvg-logo="http://l1.aesbg.net/337.png", POWER HD
+http://r.aesbg.net:4000/337
+#EXTINF:-1 ,338 tvg-id="338" tvg-name="POWERTURK HD" tvg-logo="http://l1.aesbg.net/338.png", POWERTURK HD
+http://r.aesbg.net:4000/338
+#EXTINF:-1 ,295 tvg-id="295" tvg-name="RUDAW HD" tvg-logo="http://l1.aesbg.net/295.png", RUDAW HD
+http://r.aesbg.net:4000/295
+#EXTINF:-1 ,297 tvg-id="297" tvg-name="Kurdistan 24 HD" tvg-logo="http://l1.aesbg.net/297.png", Kurdistan 24 HD
+http://r.aesbg.net:4000/297
+#EXTINF:-1 ,303 tvg-id="303" tvg-name="minikaGO" tvg-logo="http://l1.aesbg.net/303.png", minikaGO
+http://r.aesbg.net:4000/303
+#EXTINF:-1 ,293 tvg-id="293" tvg-name="TVK" tvg-logo="http://l1.aesbg.net/293.png", TVK
+http://r.aesbg.net:4000/293
+#EXTINF:-1 ,304 tvg-id="304" tvg-name="minikaCOCUK" tvg-logo="http://l1.aesbg.net/304.png", minikaCOCUK
+http://r.aesbg.net:4000/304
+#EXTINF:-1 ,305 tvg-id="305" tvg-name="A2" tvg-logo="http://l1.aesbg.net/305.png", A2
+http://r.aesbg.net:4000/305
+#EXTINF:-1 ,310 tvg-id="310" tvg-name="DREAM TV HD" tvg-logo="http://l1.aesbg.net/310.png", DREAM TV HD
+http://r.aesbg.net:4000/310
+#EXTINF:-1 ,312 tvg-id="312" tvg-name="BLOOMBERGHT HD" tvg-logo="http://l1.aesbg.net/312.png", BLOOMBERGHT HD
+http://r.aesbg.net:4000/312
+#EXTINF:-1 ,318 tvg-id="318" tvg-name="T.A.Y TV" tvg-logo="http://l1.aesbg.net/318.png", T.A.Y TV
+http://r.aesbg.net:4000/318
+#EXTINF:-1 ,317 tvg-id="317" tvg-name="teve2 HD" tvg-logo="http://l1.aesbg.net/317.png", teve2 HD
+http://r.aesbg.net:4000/317
+#EXTINF:-1 ,319 tvg-id="319" tvg-name="ULKE TV HD" tvg-logo="http://l1.aesbg.net/319.png", ULKE TV HD
+http://r.aesbg.net:4000/319
+#EXTINF:-1 ,323 tvg-id="323" tvg-name="KANAL 16" tvg-logo="http://l1.aesbg.net/323.png", KANAL 16
+http://r.aesbg.net:4000/323
+#EXTINF:-1 ,325 tvg-id="325" tvg-name="CAY TV" tvg-logo="http://l1.aesbg.net/325.png", CAY TV
+http://r.aesbg.net:4000/325
+#EXTINF:-1 ,328 tvg-id="328" tvg-name="KANAL TEK" tvg-logo="http://l1.aesbg.net/328.png", KANAL TEK
+http://r.aesbg.net:4000/328
+#EXTINF:-1 ,326 tvg-id="326" tvg-name="MAKINE TV" tvg-logo="http://l1.aesbg.net/326.png", MAKINE TV
+http://r.aesbg.net:4000/326
+#EXTINF:-1 ,327 tvg-id="327" tvg-name="EGE TV" tvg-logo="http://l1.aesbg.net/327.png", EGE TV
+http://r.aesbg.net:4000/327
+#EXTINF:-1 ,339 tvg-id="339" tvg-name="DiYAR TV" tvg-logo="http://l1.aesbg.net/339.png", DiYAR TV
+http://r.aesbg.net:4000/339
+#EXTINF:-1 ,340 tvg-id="340" tvg-name="MERCAN TV" tvg-logo="http://l1.aesbg.net/340.png", MERCAN TV
+http://r.aesbg.net:4000/340
+#EXTINF:-1 ,341 tvg-id="341" tvg-name="KANAL FIRAT" tvg-logo="http://l1.aesbg.net/341.png", KANAL FIRAT
+http://r.aesbg.net:4000/341
+#EXTINF:-1 ,344 tvg-id="344" tvg-name="ASTV" tvg-logo="http://l1.aesbg.net/344.png", ASTV
+http://r.aesbg.net:4000/344
+#EXTINF:-1 ,342 tvg-id="342" tvg-name="KANAL V" tvg-logo="http://l1.aesbg.net/342.png", KANAL V
+http://r.aesbg.net:4000/342
+#EXTINF:-1 ,343 tvg-id="343" tvg-name="TV A" tvg-logo="", TV A
+http://r.aesbg.net:4000/343
+#EXTINF:-1 ,345 tvg-id="345" tvg-name="TARIM TURK" tvg-logo="http://l1.aesbg.net/345.png", TARIM TURK
+http://r.aesbg.net:4000/345
+#EXTINF:-1 ,346 tvg-id="346" tvg-name="EURO D" tvg-logo="", EURO D
+http://r.aesbg.net:4000/346
+#EXTINF:-1 ,350 tvg-id="350" tvg-name="TELE 1" tvg-logo="", TELE 1
+http://r.aesbg.net:4000/350
+#EXTINF:-1 ,354 tvg-id="354" tvg-name="BEREKET TV" tvg-logo="http://l1.aesbg.net/354.png", BEREKET TV
+http://r.aesbg.net:4000/354
+#EXTINF:-1 ,353 tvg-id="353" tvg-name="BEYKENT TV" tvg-logo="http://l1.aesbg.net/353.png", BEYKENT TV
+http://r.aesbg.net:4000/353
+#EXTINF:-1 ,360 tvg-id="360" tvg-name="KANAL 26" tvg-logo="http://l1.aesbg.net/360.png", KANAL 26
+http://r.aesbg.net:4000/360
+#EXTINF:-1 ,356 tvg-id="356" tvg-name="AV TV" tvg-logo="http://l1.aesbg.net/356.png", AV TV
+http://r.aesbg.net:4000/356
+#EXTINF:-1 ,357 tvg-id="357" tvg-name="KANAL 23" tvg-logo="", KANAL 23
+http://r.aesbg.net:4000/357
+#EXTINF:-1 ,358 tvg-id="358" tvg-name="TVDEN" tvg-logo="http://l1.aesbg.net/358.png", TVDEN
+http://r.aesbg.net:4000/358
+#EXTINF:-1 ,363 tvg-id="363" tvg-name="TV 41" tvg-logo="http://l1.aesbg.net/363.png", TV 41
+http://r.aesbg.net:4000/363
+#EXTINF:-1 ,359 tvg-id="359" tvg-name="KENT TURK" tvg-logo="http://l1.aesbg.net/359.png", KENT TURK
+http://r.aesbg.net:4000/359
+#EXTINF:-1 ,361 tvg-id="361" tvg-name="TON TV" tvg-logo="http://l1.aesbg.net/361.png", TON TV
+http://r.aesbg.net:4000/361
+#EXTINF:-1 ,366 tvg-id="366" tvg-name="DURU TV" tvg-logo="http://l1.aesbg.net/366.png", DURU TV
+http://r.aesbg.net:4000/366
+#EXTINF:-1 ,365 tvg-id="365" tvg-name="ES TV" tvg-logo="http://l1.aesbg.net/365.png", ES TV
+http://r.aesbg.net:4000/365
+#EXTINF:-1 ,362 tvg-id="362" tvg-name="DEHA TV" tvg-logo="http://l1.aesbg.net/362.png", DEHA TV
+http://r.aesbg.net:4000/362
+#EXTINF:-1 ,364 tvg-id="364" tvg-name="KANAL 68" tvg-logo="http://l1.aesbg.net/364.png", KANAL 68
+http://r.aesbg.net:4000/364
+#EXTINF:-1 ,367 tvg-id="367" tvg-name="ER TV" tvg-logo="http://l1.aesbg.net/367.png", ER TV
+http://r.aesbg.net:4000/367
+#EXTINF:-1 ,368 tvg-id="368" tvg-name="ADANA" tvg-logo="http://l1.aesbg.net/368.png", ADANA
+http://r.aesbg.net:4000/368
+#EXTINF:-1 ,370 tvg-id="370" tvg-name="SEMERKAND HD" tvg-logo="http://l1.aesbg.net/370.png", SEMERKAND HD
+http://r.aesbg.net:4000/370
+#EXTINF:-1 ,376 tvg-id="376" tvg-name="KADIRGA TV" tvg-logo="http://l1.aesbg.net/376.png", KADIRGA TV
+http://r.aesbg.net:4000/376
+#EXTINF:-1 ,378 tvg-id="378" tvg-name="OLAY TV" tvg-logo="http://l1.aesbg.net/378.png", OLAY TV
+http://r.aesbg.net:4000/378
+#EXTINF:-1 ,377 tvg-id="377" tvg-name="DOGAL TV" tvg-logo="http://l1.aesbg.net/377.png", DOGAL TV
+http://r.aesbg.net:4000/377
+#EXTINF:-1 ,380 tvg-id="380" tvg-name="KANAL URFA" tvg-logo="http://l1.aesbg.net/380.png", KANAL URFA
+http://r.aesbg.net:4000/380
+#EXTINF:-1 ,381 tvg-id="381" tvg-name="GUNEYDOGU TV" tvg-logo="http://l1.aesbg.net/381.png", GUNEYDOGU TV
+http://r.aesbg.net:4000/381
+#EXTINF:-1 ,379 tvg-id="379" tvg-name="EDESSA TV" tvg-logo="http://l1.aesbg.net/379.png", EDESSA TV
+http://r.aesbg.net:4000/379
+#EXTINF:-1 ,383 tvg-id="383" tvg-name="UZAY HABER" tvg-logo="http://l1.aesbg.net/383.png", UZAY HABER
+http://r.aesbg.net:4000/383
+#EXTINF:-1 ,382 tvg-id="382" tvg-name="LINE TV" tvg-logo="http://l1.aesbg.net/382.png", LINE TV
+http://r.aesbg.net:4000/382
+#EXTINF:-1 ,384 tvg-id="384" tvg-name="SPORTS TV" tvg-logo="http://l1.aesbg.net/384.png", SPORTS TV
+http://r.aesbg.net:4000/384
+#EXTINF:-1 ,385 tvg-id="385" tvg-name="REHBER TV" tvg-logo="http://l1.aesbg.net/385.png", REHBER TV
+http://r.aesbg.net:4000/385
+#EXTINF:-1 ,386 tvg-id="386" tvg-name="KANAL 58" tvg-logo="http://l1.aesbg.net/386.png", KANAL 58
+http://r.aesbg.net:4000/386
+#EXTINF:-1 ,392 tvg-id="392" tvg-name="HRT AKDENIZ" tvg-logo="http://l1.aesbg.net/392.png", HRT AKDENIZ
+http://r.aesbg.net:4000/392
+#EXTINF:-1 ,390 tvg-id="390" tvg-name="KANAL 5" tvg-logo="http://l1.aesbg.net/390.png", KANAL 5
+http://r.aesbg.net:4000/390
+#EXTINF:-1 ,388 tvg-id="388" tvg-name="KANAL 43" tvg-logo="http://l1.aesbg.net/388.png", KANAL 43
+http://r.aesbg.net:4000/388
+#EXTINF:-1 ,391 tvg-id="391" tvg-name="AKRT TV" tvg-logo="", AKRT TV
+http://r.aesbg.net:4000/391
+#EXTINF:-1 ,394 tvg-id="394" tvg-name="KANAL3 TV" tvg-logo="http://l1.aesbg.net/394.png", KANAL3 TV
+http://r.aesbg.net:4000/394
+#EXTINF:-1 ,396 tvg-id="396" tvg-name="AKSU TV" tvg-logo="http://l1.aesbg.net/396.png", AKSU TV
+http://r.aesbg.net:4000/396
+#EXTINF:-1 ,352 tvg-id="352" tvg-name="ALJAZEERA CHANNEL" tvg-logo="http://l1.aesbg.net/352.png", ALJAZEERA CHANNEL
+http://r.aesbg.net:4000/352
+#EXTINF:-1 ,355 tvg-id="355" tvg-name="ALJAZEERA INTERNATIONAL" tvg-logo="http://l1.aesbg.net/355.png", ALJAZEERA INTERNATIONAL
+http://r.aesbg.net:4000/355
+#EXTINF:-1 ,289 tvg-id="289" tvg-name="Archinews24" tvg-logo="http://l1.aesbg.net/289.png", Archinews24
+http://r.aesbg.net:4000/289
+#EXTINF:-1 ,294 tvg-id="294" tvg-name="Iran International HD" tvg-logo="http://l1.aesbg.net/294.png", Iran International HD
+http://r.aesbg.net:4000/294
+#EXTINF:-1 ,502 tvg-id="502" tvg-name="FILMBOX" tvg-logo="http://l1.aesbg.net/502.png", FILMBOX
+http://r.aesbg.net:4000/502
+#EXTINF:-1 ,705 tvg-id="705" tvg-name="test 24_TEXHO" tvg-logo="http://l1.aesbg.net/705.png", test 24_TEXHO
+http://r.aesbg.net:4000/705
+#EXTINF:-1 ,719 tvg-id="719" tvg-name="test BHTV" tvg-logo="http://l1.aesbg.net/719.png", test BHTV
+http://r.aesbg.net:4000/719
+#EXTINF:-1 ,720 tvg-id="720" tvg-name="test BiT_HD" tvg-logo="http://l1.aesbg.net/720.png", test BiT_HD
+http://r.aesbg.net:4000/720
+#EXTINF:-1 ,733 tvg-id="733" tvg-name="test Duck_TV" tvg-logo="http://l1.aesbg.net/733.png", test Duck_TV
+http://r.aesbg.net:4000/733
+#EXTINF:-1 ,747 tvg-id="747" tvg-name="test MTV" tvg-logo="http://l1.aesbg.net/747.png", test MTV
+http://r.aesbg.net:4000/747
+#EXTINF:-1 ,737 tvg-id="737" tvg-name="test Folklor_TV" tvg-logo="http://l1.aesbg.net/737.png", test Folklor_TV
+http://r.aesbg.net:4000/737
+#EXTINF:-1 ,748 tvg-id="748" tvg-name="test MTV_Hits" tvg-logo="http://l1.aesbg.net/748.png", test MTV_Hits
+http://r.aesbg.net:4000/748
+#EXTINF:-1 ,749 tvg-id="749" tvg-name="test MTV_Rocks" tvg-logo="http://l1.aesbg.net/749.png", test MTV_Rocks
+http://r.aesbg.net:4000/749
+#EXTINF:-1 ,784 tvg-id="784" tvg-name="test TV1_HD" tvg-logo="http://l1.aesbg.net/784.png", test TV1_HD
+http://r.aesbg.net:4000/784
+#EXTINF:-1 ,744 tvg-id="744" tvg-name="test JukeBox_TV" tvg-logo="http://l1.aesbg.net/744.png", test JukeBox_TV
+http://r.aesbg.net:4000/744
+#EXTINF:-1 ,284 tvg-id="284" tvg-name="TBN-Ukraine" tvg-logo="http://l1.aesbg.net/284.png", TBN-Ukraine
+http://r.aesbg.net:4000/284
+#EXTINF:-1 ,291 tvg-id="291" tvg-name="NetVieth" tvg-logo="http://l1.aesbg.net/291.png", NetVieth
+http://r.aesbg.net:4000/291
+#EXTINF:-1 ,296 tvg-id="296" tvg-name="BVN" tvg-logo="http://l1.aesbg.net/296.png", BVN
+http://r.aesbg.net:4000/296
+#EXTINF:-1 ,288 tvg-id="288" tvg-name="Euronews Greece" tvg-logo="http://l1.aesbg.net/288.png", Euronews Greece
+http://r.aesbg.net:4000/288
+#EXTINF:-1 ,292 tvg-id="292" tvg-name="Thai Global Network" tvg-logo="http://l1.aesbg.net/292.png", Thai Global Network
+http://r.aesbg.net:4000/292
+#EXTINF:-1 ,287 tvg-id="287" tvg-name="Euronews Italia" tvg-logo="http://l1.aesbg.net/287.png", Euronews Italia
+http://r.aesbg.net:4000/287
+#EXTINF:-1 ,283 tvg-id="283" tvg-name="Vozrojdenie TV" tvg-logo="http://l1.aesbg.net/283.png", Vozrojdenie TV
+http://r.aesbg.net:4000/283
+#EXTINF:-1 ,103 tvg-id="103" tvg-name="BNT 1" tvg-logo="", BNT 1
+http://r.aesbg.net:4000/103
+#EXTINF:-1 ,104 tvg-id="104" tvg-name="BNT 2" tvg-logo="", BNT 2
+http://r.aesbg.net:4000/104
+#EXTINF:-1 ,105 tvg-id="105" tvg-name="BNT 3" tvg-logo="", BNT 3
+http://r.aesbg.net:4000/105
+#EXTINF:-1 ,106 tvg-id="106" tvg-name="BNT 4" tvg-logo="", BNT 4
+http://r.aesbg.net:4000/106
+#EXTINF:-1 ,731 tvg-id="731" tvg-name="test Discovery_HD_Showcase" tvg-logo="http://l1.aesbg.net/731.png", test Discovery_HD_Showcase
+http://r.aesbg.net:4000/731
+#EXTINF:-1 ,730 tvg-id="730" tvg-name="Diema Sport 3 HD" tvg-logo="http://l1.aesbg.net/730.png" codec="2", Diema Sport 3 HD
+http://r.aesbg.net:4000/730
+#EXTINF:-1 ,743 tvg-id="743" tvg-name="test In_LIFE_TV_HD" tvg-logo="http://l1.aesbg.net/743.png", test In_LIFE_TV_HD
+http://r.aesbg.net:4000/743
+#EXTINF:-1 ,700 tvg-id="700" tvg-name="test bTV_Action_HD" tvg-logo="http://l1.aesbg.net/700.png", test bTV_Action_HD
+http://r.aesbg.net:4000/700
+#EXTINF:-1 ,298 tvg-id="298" tvg-name="Sama Dubai HD" tvg-logo="http://l1.aesbg.net/298.png", Sama Dubai HD
+http://r.aesbg.net:4000/298
+#EXTINF:-1 ,192 tvg-id="192" tvg-name="Dubai Sports 1 HD" tvg-logo="http://l1.aesbg.net/192.png", Dubai Sports 1 HD
+http://r.aesbg.net:4000/192
+#EXTINF:-1 ,703 tvg-id="703" tvg-name="test 1TVRUS_Europe" tvg-logo="http://l1.aesbg.net/703.png", test 1TVRUS_Europe
+http://r.aesbg.net:4000/703
+#EXTINF:-1 ,723 tvg-id="723" tvg-name="test CANAL_24" tvg-logo="http://l1.aesbg.net/723.png", test CANAL_24
+http://r.aesbg.net:4000/723
+#EXTINF:-1 ,713 tvg-id="713" tvg-name="test Armenia_TV" tvg-logo="http://l1.aesbg.net/713.png", test Armenia_TV
+http://r.aesbg.net:4000/713
+#EXTINF:-1 ,717 tvg-id="717" tvg-name="test BBC_World" tvg-logo="http://l1.aesbg.net/717.png", test BBC_World
+http://r.aesbg.net:4000/717
+#EXTINF:-1 ,734 tvg-id="734" tvg-name="test Euronews" tvg-logo="http://l1.aesbg.net/734.png", test Euronews
+http://r.aesbg.net:4000/734
+#EXTINF:-1 ,739 tvg-id="739" tvg-name="test FOX_Life" tvg-logo="http://l1.aesbg.net/739.png", test FOX_Life
+http://r.aesbg.net:4000/739
+#EXTINF:-1 ,727 tvg-id="727" tvg-name="test Detskii_Mir" tvg-logo="http://l1.aesbg.net/727.png", test Detskii_Mir
+http://r.aesbg.net:4000/727
+#EXTINF:-1 ,732 tvg-id="732" tvg-name="test Disney_channel" tvg-logo="http://l1.aesbg.net/732.png", test Disney_channel
+http://r.aesbg.net:4000/732
+#EXTINF:-1 ,740 tvg-id="740" tvg-name="test France_24" tvg-logo="http://l1.aesbg.net/740.png", test France_24
+http://r.aesbg.net:4000/740
+#EXTINF:-1 ,741 tvg-id="741" tvg-name="test France_24 English" tvg-logo="http://l1.aesbg.net/741.png", test France_24 English
+http://r.aesbg.net:4000/741
+#EXTINF:-1 ,746 tvg-id="746" tvg-name="test Minika_Gocuk" tvg-logo="http://l1.aesbg.net/746.png", test Minika_Gocuk
+http://r.aesbg.net:4000/746
+#EXTINF:-1 ,750 tvg-id="750" tvg-name="test MuzikTurk" tvg-logo="", test MuzikTurk
+http://r.aesbg.net:4000/750
+#EXTINF:-1 ,765 tvg-id="765" tvg-name="test RTL2" tvg-logo="http://l1.aesbg.net/765.png", test RTL2
+http://r.aesbg.net:4000/765
+#EXTINF:-1 ,764 tvg-id="764" tvg-name="test RTL_Television" tvg-logo="http://l1.aesbg.net/764.png", test RTL_Television
+http://r.aesbg.net:4000/764
+#EXTINF:-1 ,763 tvg-id="763" tvg-name="test Rossiya_24" tvg-logo="http://l1.aesbg.net/763.png", test Rossiya_24
+http://r.aesbg.net:4000/763
+#EXTINF:-1 ,766 tvg-id="766" tvg-name="test RTLNITRO" tvg-logo="http://l1.aesbg.net/766.png", test RTLNITRO
+http://r.aesbg.net:4000/766
+#EXTINF:-1 ,767 tvg-id="767" tvg-name="test RTR" tvg-logo="http://l1.aesbg.net/767.png", test RTR
+http://r.aesbg.net:4000/767
+#EXTINF:-1 ,768 tvg-id="768" tvg-name="test RTV_International" tvg-logo="http://l1.aesbg.net/768.png", test RTV_International
+http://r.aesbg.net:4000/768
+#EXTINF:-1 ,769 tvg-id="769" tvg-name="test Russia_Today" tvg-logo="http://l1.aesbg.net/769.png", test Russia_Today
+http://r.aesbg.net:4000/769
+#EXTINF:-1 ,770 tvg-id="770" tvg-name="test SAT_1" tvg-logo="http://l1.aesbg.net/770.png", test SAT_1
+http://r.aesbg.net:4000/770
+#EXTINF:-1 ,781 tvg-id="781" tvg-name="test TravelTV" tvg-logo="http://l1.aesbg.net/781.png", test TravelTV
+http://r.aesbg.net:4000/781
+#EXTINF:-1 ,776 tvg-id="776" tvg-name="test SUPER_RTL" tvg-logo="http://l1.aesbg.net/776.png", test SUPER_RTL
+http://r.aesbg.net:4000/776
+#EXTINF:-1 ,785 tvg-id="785" tvg-name="test TV5MONDE_EUROPE" tvg-logo="http://l1.aesbg.net/785.png", test TV5MONDE_EUROPE
+http://r.aesbg.net:4000/785
+#EXTINF:-1 ,786 tvg-id="786" tvg-name="test TVE_INTERNACIONAL_EUROPA" tvg-logo="http://l1.aesbg.net/786.png", test TVE_INTERNACIONAL_EUROPA
+http://r.aesbg.net:4000/786
+#EXTINF:-1 ,787 tvg-id="787" tvg-name="test TVT" tvg-logo="http://l1.aesbg.net/787.png", test TVT
+http://r.aesbg.net:4000/787
+#EXTINF:-1 ,790 tvg-id="790" tvg-name="test YABAN_TV" tvg-logo="http://l1.aesbg.net/790.png", test YABAN_TV
+http://r.aesbg.net:4000/790
+#EXTINF:-1 ,791 tvg-id="791" tvg-name="bEIN MOVIES PREMIER HD" tvg-logo="http://l1.aesbg.net/791.png", bEIN MOVIES PREMIER HD
+http://r.aesbg.net:4000/791
+#EXTINF:-1 ,299 tvg-id="299" tvg-name="Dubai TV HD" tvg-logo="http://l1.aesbg.net/299.png", Dubai TV HD
+http://r.aesbg.net:4000/299
+#EXTINF:-1 ,900 tvg-id="900" tvg-name="Chillayo 4k" tvg-logo="", Chillayo 4k
+http://r.aesbg.net:4000/900
+#EXTINF:-1 ,901 tvg-id="901" tvg-name="LollyKids HD" tvg-logo="", LollyKids HD
+http://r.aesbg.net:4000/901
+#EXTINF:-1 ,902 tvg-id="902" tvg-name="Patrys 4k" tvg-logo="", Patrys 4k
+http://r.aesbg.net:4000/902
+#EXTINF:-1 ,903 tvg-id="903" tvg-name="Pett_and_Pal 4k" tvg-logo="", Pett_and_Pal 4k
+http://r.aesbg.net:4000/903
+#EXTINF:-1 ,904 tvg-id="904" tvg-name="SpeedFacktor 4k" tvg-logo="", SpeedFacktor 4k
+http://r.aesbg.net:4000/904
+#EXTINF:-1 ,905 tvg-id="905" tvg-name="WOW 4k" tvg-logo="", WOW 4k
+http://r.aesbg.net:4000/905
+
+
